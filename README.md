@@ -5,5 +5,5 @@ Una librería básica de Python para el procesamiento, discretización (Igual An
 ## Instalación
 
 ```bash
-pip install .
+pip install git+https://github.com/AitorAr76/kit_Estadistica.git
 ```
